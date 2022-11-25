@@ -237,7 +237,7 @@ url('https://fonts.googleapis.com/css?family=Poppins:200,300,400,500,600,700,800
     background: #162c3b;
     text-align: center;
 }
-.imgBx2 
+.imgBx.imgBx2 
 {
     background: url(img/bg2.jpg);
     background-size: cover;
